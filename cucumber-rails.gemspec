@@ -18,6 +18,7 @@ Gem::Specification.new do |s|
   ]
   s.files = [
     ".gitignore",
+    ".rspec",
      "HACKING.rdoc",
      "History.txt",
      "LICENSE",
@@ -54,7 +55,6 @@ Gem::Specification.new do |s|
      "lib/generators/cucumber/install/install_generator.rb",
      "spec/cucumber/web/tableish_spec.rb",
      "spec/generators/cucumber/install/install_base_spec.rb",
-     "spec/spec.opts",
      "spec/spec_helper.rb",
      "templates/feature/feature.erb",
      "templates/feature/steps.erb",
